@@ -1,16 +1,19 @@
-# This script is designed to get the distance and time for travel from A to B
+# This script is developed to get the distance and time for travel from A to B
 # It uses the Google Maps Distance Matrix API
 # It uses the XML data format output version of the API (as opposed to JSON format)
 # Details about the API and its parameters are here:
 # W: https://developers.google.com/maps/documentation/distance-matrix/intro
+#
+# Script developed by Peter Stephan, 2017
 
 
-# SPECIFY INPUT AND OUTPUT CSV FILES
-input_file = 'inputs_example.csv'
+# SPECIFY INPUT CSV FILE
 # Populate this using the Excel file inputs.xlsx
+input_file = 'inputs_example.csv'
+# SPECIFY OUTPUT CSV FILE
 output_file = 'outputs_filename.csv'
-# INSERT YOUR API KEY BELOW
-your_key = "insert_you_api_key_here"
+# INSERT YOUR GOOGLE MAPS API KEY BELOW
+your_key = "insert_your_api_key_here"
 
 # DEPENDENCIES
 import requests
@@ -22,7 +25,7 @@ from bs4 import BeautifulSoup
 
 # WRITE THE HEADINGS IN THE OUTPUT FILE BEFORE STARTING FOR LOOP
 with open(output_file, 'a') as csvfile:
-    # The 'a' in the 'ab' setting means 'append' the data i.e. add new row
+    # The 'a' setting means 'append' the data i.e. add new row
     writer = csv.writer(csvfile)
     writer.writerow([
                                 'id',
@@ -58,7 +61,6 @@ with open(output_file, 'a') as csvfile:
 # READ INPUT PARAMETERS AND START A FOR LOOP
 with open(input_file) as csvfile:
     reader = csv.DictReader(csvfile)
-    # Start the For loop!!
     for row in reader:
 
         # EXTRACT AND SET PARAMETERS
@@ -91,7 +93,7 @@ with open(input_file) as csvfile:
 
         #Parameter [3]
         language = "en-EN"
-        #english
+        # english
 
         #Parameter [4]
         mode = row['mode']
@@ -166,9 +168,9 @@ with open(input_file) as csvfile:
         print(b)
         #Parameter [8-A] Arrival Time... Not set here
         arrival_time = ""
-        # OR......
+        # or
         #Parameter [8-B] Departure Time
-        #departure_time = "now" #if you want dpeart time to be now, when run
+        #departure_time = "now" #if you want the depart time to be now, when run
         departure_time = int((b-a).total_seconds())
         print(departure_time)
 
@@ -198,12 +200,9 @@ with open(input_file) as csvfile:
 
         #Parameter [11]
         # API Key:
-        # Use commenting out to choose which one
-        # Rate limiting (requests/day) applies to the FREE tier of API use!
+        # Rate limiting (requests/day) applies to the FREE tier of API use
         # Free up to 2,500 requests per day.
         # If billing is enabled: $0.50 USD / 1,000 additional requests, up to 100,000 daily
-
-        #INSERT YOUR API KEY BELOW
         key = your_key
 
 
@@ -243,11 +242,8 @@ with open(input_file) as csvfile:
 
 
         # WRITE RESULTS TO A CSV FILE
-        # The 'a' in the 'ab' setting means 'append' the data i.e. add new row
-        # The 'b' in the 'ab' means binary, which stops it putting gaps between the CSV rows
         with open(output_file, 'a') as csvfile:
             writer = csv.writer(csvfile)
-            #write the input parameters and output content in the output_file
             writer.writerow([
                                 id,
                                 orig_street,
@@ -280,4 +276,4 @@ with open(input_file) as csvfile:
 
 print("")
 print("")
-print("Script finished :) ")
+print("Script finished")
