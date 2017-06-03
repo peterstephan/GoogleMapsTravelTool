@@ -1,0 +1,795 @@
+id,orig_street,orig_suburb,orig_state,orig_postcode,orig_country,dest_street,dest_suburb,dest_state,dest_postcode,dest_country,mode,transit_mode,transit_routing_preference,avoid,year,month,day,hour,minute,time_zone,traffic_model
+1,,ACACIA RIDGE,QLD,4110,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+2,,ACACIA RIDGE DC,QLD,4110,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+3,,ALBANY CREEK,QLD,4035,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+4,,ALBERTON,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+5,,ALBION,QLD,4010,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+6,,ALDERLEY,QLD,4051,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+7,,ALEXANDRA HILLS,QLD,4161,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+8,,ALGESTER,QLD,4115,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+9,,AMITY POINT,QLD,4183,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+10,,ANNERLEY,QLD,4103,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+11,,ANSTEAD,QLD,4070,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+12,,ARANA HILLS,QLD,4054,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+13,,ARCHERFIELD,QLD,4108,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+14,,ARCHERFIELD BC,QLD,4108,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+15,,ARMSTRONG CREEK,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+16,,ASCOT,QLD,4007,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+17,,ASHGROVE,QLD,4060,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+18,,ASHGROVE WEST,QLD,4060,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+19,,ASPLEY,QLD,4034,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+20,,AUCHENFLOWER,QLD,4066,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+21,,BAHRS SCRUB,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+22,,BALD HILLS,QLD,4036,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+23,,BALMORAL,QLD,4171,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+24,,BANKSIA BEACH,QLD,4507,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+25,,BANNOCKBURN,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+26,,BANYO,QLD,4014,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+27,,BARDON,QLD,4065,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+28,,BEACHMERE,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+29,,BEENLEIGH,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+30,,BEERBURRUM,QLD,4517,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+31,,BEERWAH,QLD,4519,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+32,,BELIVAH,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+33,,BELLARA,QLD,4507,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+34,,BELLBOWRIE,QLD,4070,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+35,,BELLMERE,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+36,,BELLTHORPE,QLD,4514,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+37,,BELMONT,QLD,4153,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+38,,BERRINBA,QLD,4117,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+39,,BETHANIA,QLD,4205,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+40,,BIRKDALE,QLD,4159,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+41,,BONGAREE,QLD,4507,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+42,,BOONDALL,QLD,4034,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+43,,BORONIA HEIGHTS,QLD,4124,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+44,,BOWEN HILLS,QLD,4006,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+45,,BRACALBA,QLD,4512,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+46,,BRACKEN RIDGE,QLD,4017,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+47,,BRAY PARK,QLD,4500,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+48,,BRENDALE,QLD,4500,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+49,,BRIBIE ISLAND,QLD,4507,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+50,,BRIDGEMAN DOWNS,QLD,4035,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+51,,BRIGHTON,QLD,4017,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+52,,BRIGHTON EVENTIDE,QLD,4017,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+53,,BRISBANE,QLD,4000,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+54,,BRISBANE,QLD,4001,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+55,,BRISBANE,QLD,9000,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+56,,BRISBANE AIRPORT,QLD,4008,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+57,,BRISBANE CITY,QLD,4000,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+58,,BROOKFIELD,QLD,4069,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+59,,BROOKSIDE CENTRE,QLD,4053,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+60,,BROWNS PLAINS,QLD,4118,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+61,,BUCCAN,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+62,,BULIMBA,QLD,4171,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+63,,BULWER,QLD,4025,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+64,,BUNYA,QLD,4055,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+65,,BURANDA,QLD,4102,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+66,,BURBANK,QLD,4156,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+67,,BURPENGARY,QLD,4505,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+68,,BURPENGARY DC,QLD,4505,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+69,,CABOOLTURE,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+70,,CABOOLTURE SOUTH,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+71,,CALAMVALE,QLD,4116,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+72,,CAMP HILL,QLD,4152,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+73,,CAMP MOUNTAIN,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+74,,CAMPBELLS POCKET,QLD,4521,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+75,,CANNON HILL,QLD,4170,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+76,,CAPALABA,QLD,4157,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+77,,CAPALABA DC,QLD,4157,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+78,,CAPALABA WEST,QLD,4157,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+79,,CARBROOK,QLD,4130,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+80,,CARINA,QLD,4152,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+81,,CARINA HEIGHTS,QLD,4152,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+82,,CARINDALE,QLD,4152,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+83,,CARSELDINE,QLD,4034,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+84,,CASHMERE,QLD,4500,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+85,,CEDAR CREEK,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+86,,CEDAR CREEK,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+87,,CHAMBERS FLAT,QLD,4133,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+88,,CHANDLER,QLD,4155,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+89,,CHAPEL HILL,QLD,4069,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+90,,CHELMER,QLD,4068,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+91,,CHERMSIDE,QLD,4032,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+92,,CHERMSIDE SOUTH,QLD,4032,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+93,,CHERMSIDE WEST,QLD,4032,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+94,,CITY EAST,QLD,4002,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+95,,CLAYFIELD,QLD,4011,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+96,,CLEAR MOUNTAIN,QLD,4500,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+97,,CLEVELAND,QLD,4163,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+98,,CLEVELAND DC,QLD,4163,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+99,,CLONTARF,QLD,4019,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+100,,CLONTARF BEACH,QLD,4019,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+101,,CLONTARF DC,QLD,4019,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+102,,CLOSEBURN,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+103,,COOCHIEMUDLO ISLAND,QLD,4184,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+104,,COOCHIN CREEK,QLD,4519,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+105,,COOPERS PLAINS,QLD,4108,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+106,,COORPAROO,QLD,4151,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+107,,COORPAROO DC,QLD,4151,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+108,,CORINDA,QLD,4075,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+109,,CORNUBIA,QLD,4130,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+110,,CRESTMEAD,QLD,4132,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+111,,CROHAMHURST,QLD,4519,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+112,,D'AGUILAR,QLD,4514,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+113,,DAISY HILL,QLD,4127,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+114,,DAKABIN,QLD,4503,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+115,,DARRA,QLD,4076,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+116,,DAYBORO,QLD,4521,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+117,,DEAGON,QLD,4017,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+118,,DECEPTION BAY,QLD,4508,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+119,,DELANEYS CREEK,QLD,4514,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+120,,DONNYBROOK,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+121,,DOOLANDELLA,QLD,4077,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+122,,DRAPER,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+123,,DREWVALE,QLD,4116,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+124,,DUNWICH,QLD,4183,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+125,,DURACK,QLD,4077,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+126,,DUTTON PARK,QLD,4102,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+127,,EAGLE FARM,QLD,4009,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+128,,EAGLEBY,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+129,,EAST BRISBANE,QLD,4169,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+130,,EATONS HILL,QLD,4037,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+131,,EDENS LANDING,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+132,,EIGHT MILE PLAINS,QLD,4113,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+133,,ELIMBAH,QLD,4516,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+134,,ELLEN GROVE,QLD,4078,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+135,,ENOGGERA,QLD,4051,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+136,,ENOGGERA RESERVOIR,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+137,,EVERTON HILLS,QLD,4053,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+138,,EVERTON PARK,QLD,4053,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+139,,FAIRFIELD,QLD,4103,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+140,,FAIRFIELD GARDENS,QLD,4103,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+141,,FERNY GROVE,QLD,4055,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+142,,FERNY HILLS,QLD,4055,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+143,,FIG TREE POCKET,QLD,4069,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+144,,FITZGIBBON,QLD,4018,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+145,,FOREST LAKE,QLD,4078,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+146,,FORESTDALE,QLD,4118,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+147,,FORTITUDE VALLEY,QLD,4006,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+148,,GAYTHORNE,QLD,4051,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+149,,GEEBUNG,QLD,4034,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+150,,GEORGE STREET,QLD,4003,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+151,,GLASS HOUSE MOUNTAINS,QLD,4518,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+152,,GODWIN BEACH,QLD,4511,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+153,,GORDON PARK,QLD,4031,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+154,,GRACEVILLE,QLD,4075,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+155,,GRANGE,QLD,4051,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+156,,GREENBANK,QLD,4124,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+157,,GREENSLOPES,QLD,4120,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+158,,GRIFFIN,QLD,4503,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+159,,GUMDALE,QLD,4154,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+160,,HAMILTON,QLD,4007,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+161,,HAMILTON CENTRAL,QLD,4007,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+162,,HAWTHORNE,QLD,4171,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+163,,HAZELDEAN,QLD,4515,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+164,,HEATHWOOD,QLD,4110,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+165,,HEMMANT,QLD,4174,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+166,,HENDRA,QLD,4011,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+167,,HERITAGE PARK,QLD,4118,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+168,,HERSTON,QLD,4006,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+169,,HIGHGATE HILL,QLD,4101,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+170,,HIGHVALE,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+171,,HILLCREST,QLD,4118,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+172,,HOLLAND PARK,QLD,4121,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+173,,HOLLAND PARK EAST,QLD,4121,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+174,,HOLLAND PARK WEST,QLD,4121,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+175,,HOLMVIEW,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+176,,INALA,QLD,4077,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+177,,INALA HEIGHTS,QLD,4077,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+178,,INDOOROOPILLY,QLD,4068,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+179,,JAMBOREE HEIGHTS,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+180,,JINDALEE,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+181,,JOLLYS LOOKOUT,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+182,,KALLANGUR,QLD,4503,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+183,,KANGAROO POINT,QLD,4169,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+184,,KARAWATHA,QLD,4117,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+185,,KEDRON,QLD,4031,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+186,,KELVIN GROVE,QLD,4059,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+187,,KELVIN GROVE BC,QLD,4059,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+188,,KENMORE,QLD,4069,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+189,,KEPERRA,QLD,4054,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+190,,KILCOY,QLD,4515,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+191,,KINGSTON,QLD,4114,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+192,,KIPPA-RING,QLD,4021,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+193,,KOBBLE CREEK,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+194,,KOORINGAL,QLD,4025,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+195,,KURABY,QLD,4112,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+196,,KURWONGBAH,QLD,4503,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+197,,LAMB ISLAND,QLD,4184,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+198,,LARAPINTA,QLD,4110,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+199,,LAWNTON,QLD,4501,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+200,,LOGAN CENTRAL,QLD,4114,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+201,,LOGAN RESERVE,QLD,4133,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+202,,LOGAN VILLAGE,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+203,,LOGANHOLME,QLD,4129,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+204,,LOGANLEA,QLD,4131,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+205,,LOTA,QLD,4179,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+206,,LUSCOMBE,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+207,,LUTWYCHE,QLD,4030,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+208,,LYONS,QLD,4124,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+209,,LYTTON,QLD,4178,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+210,,MACGREGOR,QLD,4109,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+211,,MACKENZIE,QLD,4156,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+212,,MACLEAY ISLAND,QLD,4184,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+213,,MANGO HILL,QLD,4509,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+214,,MANLY,QLD,4179,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+215,,MANLY WEST,QLD,4179,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+216,,MANSFIELD,QLD,4122,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+217,,MANSFIELD BC,QLD,4122,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+218,,MARGATE,QLD,4019,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+219,,MARGATE BEACH,QLD,4019,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+220,,MARSDEN,QLD,4132,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+221,,MCDOWALL,QLD,4053,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+222,,MEADOWBROOK,QLD,4131,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+223,,MELDALE,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+224,,MIDDLE PARK,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+225,,MILTON,QLD,4064,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+226,,MITCHELTON,QLD,4053,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+227,,MOGGILL,QLD,4070,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+228,,MOORINA,QLD,4506,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+229,,MOOROOKA,QLD,4105,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+230,,MORAYFIELD,QLD,4506,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+231,,MORNINGSIDE,QLD,4170,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+232,,MOUNT ARCHER,QLD,4514,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+233,,MOUNT COOT-THA,QLD,4066,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+234,,MOUNT COTTON,QLD,4165,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+235,,MOUNT GRAVATT,QLD,4122,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+236,,MOUNT GRAVATT EAST,QLD,4122,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+237,,MOUNT MEE,QLD,4521,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+238,,MOUNT OMMANEY,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+239,,MOUNT PLEASANT,QLD,4521,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+240,,MOUNT WARREN PARK,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+241,,MT GRAVATT,QLD,4122,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+242,,MT MEE,QLD,4521,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+243,,MT OMMANEY,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+244,,MUNRUBEN,QLD,4125,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+245,,MURARRIE,QLD,4172,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+246,,MURRUMBA DOWNS,QLD,4503,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+247,,NARANGBA,QLD,4504,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+248,,NATHAN,QLD,4111,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+249,,NEW BEITH,QLD,4124,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+250,,NEW FARM,QLD,4005,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+251,,NEWMARKET,QLD,4051,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+252,,NEWSTEAD,QLD,4006,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+253,,NINGI,QLD,4511,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+254,,NORMAN PARK,QLD,4170,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+255,,NORTH LAKES,QLD,4509,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+256,,NORTH STRADBROKE ISLAND,QLD,4183,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+257,,NORTHGATE,QLD,4013,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+258,,NUDGEE,QLD,4014,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+259,,NUDGEE BEACH,QLD,4014,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+260,,NUNDAH,QLD,4012,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+261,,ORMISTON,QLD,4160,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+262,,OXLEY,QLD,4075,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+263,,PADDINGTON,QLD,4064,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+264,,PALLARA,QLD,4110,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+265,,PARK RIDGE,QLD,4125,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+266,,PARK RIDGE SOUTH,QLD,4125,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+267,,PARKINSON,QLD,4115,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+268,,PEACHESTER,QLD,4519,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+269,,PEEL ISLAND,QLD,4184,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+270,,PETRIE,QLD,4502,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+271,,PETRIE TERRACE,QLD,4000,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+272,,PINJARRA HILLS,QLD,4069,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+273,,PINKENBA,QLD,4008,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+274,,POINT LOOKOUT,QLD,4183,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+275,,PORT OF BRISBANE,QLD,4178,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+276,,PRIESTDALE,QLD,4127,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+277,,PULLENVALE,QLD,4069,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+278,,RANSOME,QLD,4154,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+279,,RED HILL,QLD,4059,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+280,,REDCLIFFE,QLD,4020,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+281,,REDCLIFFE NORTH,QLD,4020,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+282,,REDLAND BAY,QLD,4165,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+283,,REGENTS PARK,QLD,4118,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+284,,RICHLANDS,QLD,4077,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+285,,RIVERHILLS,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+286,,ROBERTSON,QLD,4109,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+287,,ROCHEDALE,QLD,4123,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+288,,ROCHEDALE SOUTH,QLD,4123,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+289,,ROCKLEA,QLD,4106,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+290,,ROCKLEA DC,QLD,4106,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+291,,ROCKSBERG,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+292,,ROTHWELL,QLD,4022,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+293,,ROYAL BRISBANE HOSPITAL,QLD,4029,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+294,,RUNCORN,QLD,4113,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+295,,RUSH CREEK,QLD,4521,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+296,,RUSSELL ISLAND,QLD,4184,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+297,,SALISBURY,QLD,4107,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+298,,SALISBURY EAST,QLD,4107,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+299,,SAMFORD,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+300,,SAMFORD VALLEY,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+301,,SAMFORD VILLAGE,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+302,,SAMSONVALE,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+303,,SANDGATE,QLD,4017,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+304,,SANDSTONE POINT,QLD,4511,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+305,,SCARBOROUGH,QLD,4020,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+306,,SEVEN HILLS,QLD,4170,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+307,,SEVENTEEN MILE ROCKS,QLD,4073,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+308,,SHAILER PARK,QLD,4128,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+309,,SHELDON,QLD,4157,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+310,,SHERWOOD,QLD,4075,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+311,,SHORNCLIFFE,QLD,4017,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+312,,SINNAMON PARK,QLD,4073,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+313,,SLACKS CREEK,QLD,4127,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+314,,SOUTH BRISBANE,QLD,4101,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+315,,SOUTH BRISBANE BC,QLD,4101,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+316,,SPRING HILL,QLD,4000,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+317,,SPRING HILL,QLD,4004,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+318,,SPRING MOUNTAIN,QLD,4124,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+319,,SPRINGWOOD,QLD,4127,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+320,,ST LUCIA,QLD,4067,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+321,,ST LUCIA SOUTH,QLD,4067,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+322,,STAFFORD,QLD,4053,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+323,,STAFFORD HEIGHTS,QLD,4053,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+324,,STANMORE,QLD,4514,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+325,,STAPYLTON,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+326,,STONES CORNER,QLD,4120,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+327,,STONY CREEK,QLD,4514,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+328,,STRATHPINE,QLD,4500,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+329,,STRETTON,QLD,4116,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+330,,SUMNER,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+331,,SUMNER PARK,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+332,,SUMNER PARK BC,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+333,,SUNNYBANK,QLD,4109,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+334,,SUNNYBANK HILLS,QLD,4109,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+335,,SUNNYBANK SOUTH,QLD,4109,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+336,,TAIGUM,QLD,4018,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+337,,TANAH MERAH,QLD,4128,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+338,,TANGALOOMA,QLD,4025,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+339,,TARINGA,QLD,4068,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+340,,TARRAGINDI,QLD,4121,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+341,,TENERIFFE,QLD,4005,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+342,,TENNYSON,QLD,4105,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+343,,THE GAP,QLD,4061,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+344,,THORNESIDE,QLD,4158,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+345,,THORNLANDS,QLD,4164,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+346,,TINGALPA,QLD,4173,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+347,,TINGALPA BC,QLD,4173,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+348,,TOOMBUL,QLD,4012,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+349,,TOORBUL,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+350,,TOOWONG,QLD,4066,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+351,,TOOWONG DC,QLD,4066,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+352,,UNDERWOOD,QLD,4119,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+353,,UNIVERSITY OF QUEENSLAND,QLD,4072,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+354,,UPPER BROOKFIELD,QLD,4069,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+355,,UPPER CABOOLTURE,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+356,,UPPER KEDRON,QLD,4055,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+357,,UPPER MT GRAVATT,QLD,4122,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+358,,VICTORIA POINT,QLD,4165,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+359,,VICTORIA POINT WEST,QLD,4165,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+360,,VILLENEUVE,QLD,4514,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+361,,VIRGINIA,QLD,4014,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+362,,VIRGINIA BC,QLD,4014,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+363,,WACOL,QLD,4076,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+364,,WAKERLEY,QLD,4154,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+365,,WAMURAN,QLD,4512,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+366,,WARNER,QLD,4500,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+367,,WATERFORD,QLD,4133,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+368,,WATERFORD WEST,QLD,4133,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+369,,WAVELL HEIGHTS,QLD,4012,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+370,,WAVELL HEIGHTS NORTH,QLD,4012,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+371,,WELLERS HILL,QLD,4121,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+372,,WELLINGTON POINT,QLD,4160,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+373,,WEST END,QLD,4101,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+374,,WESTLAKE,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+375,,WHITESIDE,QLD,4503,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+376,,WILLAWONG,QLD,4110,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+377,,WILSTON,QLD,4051,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+378,,WINDAROO,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+379,,WINDSOR,QLD,4030,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+380,,WISHART,QLD,4122,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+381,,WOODFORD,QLD,4514,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+382,,WOODRIDGE,QLD,4114,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+383,,WOODY POINT,QLD,4019,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+384,,WOOLLOONGABBA,QLD,4102,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+385,,WOOLMAR,QLD,4515,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+386,,WOOLOOWIN,QLD,4030,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+387,,WOONGOOLBA,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+388,,WOORIM,QLD,4507,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+389,,WYNNUM,QLD,4178,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+390,,WYNNUM NORTH,QLD,4178,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+391,,WYNNUM WEST,QLD,4178,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+392,,YARRABILBA,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+393,,YATALA,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+394,,YEERONGPILLY,QLD,4105,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+395,,YERONGA,QLD,4104,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+396,,YUGAR,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+397,,ZILLMERE,QLD,4034,Australia,,Brisbane CBD,QLD,4000,Australia,driving,,,,2017,6,6,7,0,10,best_guess
+398,,ACACIA RIDGE,QLD,4110,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+399,,ACACIA RIDGE DC,QLD,4110,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+400,,ALBANY CREEK,QLD,4035,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+401,,ALBERTON,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+402,,ALBION,QLD,4010,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+403,,ALDERLEY,QLD,4051,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+404,,ALEXANDRA HILLS,QLD,4161,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+405,,ALGESTER,QLD,4115,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+406,,AMITY POINT,QLD,4183,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+407,,ANNERLEY,QLD,4103,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+408,,ANSTEAD,QLD,4070,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+409,,ARANA HILLS,QLD,4054,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+410,,ARCHERFIELD,QLD,4108,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+411,,ARCHERFIELD BC,QLD,4108,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+412,,ARMSTRONG CREEK,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+413,,ASCOT,QLD,4007,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+414,,ASHGROVE,QLD,4060,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+415,,ASHGROVE WEST,QLD,4060,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+416,,ASPLEY,QLD,4034,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+417,,AUCHENFLOWER,QLD,4066,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+418,,BAHRS SCRUB,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+419,,BALD HILLS,QLD,4036,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+420,,BALMORAL,QLD,4171,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+421,,BANKSIA BEACH,QLD,4507,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+422,,BANNOCKBURN,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+423,,BANYO,QLD,4014,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+424,,BARDON,QLD,4065,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+425,,BEACHMERE,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+426,,BEENLEIGH,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+427,,BEERBURRUM,QLD,4517,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+428,,BEERWAH,QLD,4519,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+429,,BELIVAH,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+430,,BELLARA,QLD,4507,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+431,,BELLBOWRIE,QLD,4070,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+432,,BELLMERE,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+433,,BELLTHORPE,QLD,4514,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+434,,BELMONT,QLD,4153,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+435,,BERRINBA,QLD,4117,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+436,,BETHANIA,QLD,4205,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+437,,BIRKDALE,QLD,4159,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+438,,BONGAREE,QLD,4507,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+439,,BOONDALL,QLD,4034,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+440,,BORONIA HEIGHTS,QLD,4124,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+441,,BOWEN HILLS,QLD,4006,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+442,,BRACALBA,QLD,4512,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+443,,BRACKEN RIDGE,QLD,4017,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+444,,BRAY PARK,QLD,4500,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+445,,BRENDALE,QLD,4500,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+446,,BRIBIE ISLAND,QLD,4507,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+447,,BRIDGEMAN DOWNS,QLD,4035,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+448,,BRIGHTON,QLD,4017,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+449,,BRIGHTON EVENTIDE,QLD,4017,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+450,,BRISBANE,QLD,4000,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+451,,BRISBANE,QLD,4001,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+452,,BRISBANE,QLD,9000,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+453,,BRISBANE AIRPORT,QLD,4008,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+454,,BRISBANE CITY,QLD,4000,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+455,,BROOKFIELD,QLD,4069,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+456,,BROOKSIDE CENTRE,QLD,4053,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+457,,BROWNS PLAINS,QLD,4118,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+458,,BUCCAN,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+459,,BULIMBA,QLD,4171,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+460,,BULWER,QLD,4025,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+461,,BUNYA,QLD,4055,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+462,,BURANDA,QLD,4102,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+463,,BURBANK,QLD,4156,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+464,,BURPENGARY,QLD,4505,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+465,,BURPENGARY DC,QLD,4505,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+466,,CABOOLTURE,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+467,,CABOOLTURE SOUTH,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+468,,CALAMVALE,QLD,4116,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+469,,CAMP HILL,QLD,4152,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+470,,CAMP MOUNTAIN,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+471,,CAMPBELLS POCKET,QLD,4521,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+472,,CANNON HILL,QLD,4170,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+473,,CAPALABA,QLD,4157,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+474,,CAPALABA DC,QLD,4157,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+475,,CAPALABA WEST,QLD,4157,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+476,,CARBROOK,QLD,4130,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+477,,CARINA,QLD,4152,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+478,,CARINA HEIGHTS,QLD,4152,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+479,,CARINDALE,QLD,4152,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+480,,CARSELDINE,QLD,4034,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+481,,CASHMERE,QLD,4500,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+482,,CEDAR CREEK,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+483,,CEDAR CREEK,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+484,,CHAMBERS FLAT,QLD,4133,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+485,,CHANDLER,QLD,4155,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+486,,CHAPEL HILL,QLD,4069,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+487,,CHELMER,QLD,4068,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+488,,CHERMSIDE,QLD,4032,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+489,,CHERMSIDE SOUTH,QLD,4032,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+490,,CHERMSIDE WEST,QLD,4032,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+491,,CITY EAST,QLD,4002,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+492,,CLAYFIELD,QLD,4011,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+493,,CLEAR MOUNTAIN,QLD,4500,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+494,,CLEVELAND,QLD,4163,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+495,,CLEVELAND DC,QLD,4163,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+496,,CLONTARF,QLD,4019,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+497,,CLONTARF BEACH,QLD,4019,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+498,,CLONTARF DC,QLD,4019,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+499,,CLOSEBURN,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+500,,COOCHIEMUDLO ISLAND,QLD,4184,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+501,,COOCHIN CREEK,QLD,4519,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+502,,COOPERS PLAINS,QLD,4108,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+503,,COORPAROO,QLD,4151,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+504,,COORPAROO DC,QLD,4151,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+505,,CORINDA,QLD,4075,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+506,,CORNUBIA,QLD,4130,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+507,,CRESTMEAD,QLD,4132,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+508,,CROHAMHURST,QLD,4519,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+509,,D'AGUILAR,QLD,4514,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+510,,DAISY HILL,QLD,4127,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+511,,DAKABIN,QLD,4503,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+512,,DARRA,QLD,4076,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+513,,DAYBORO,QLD,4521,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+514,,DEAGON,QLD,4017,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+515,,DECEPTION BAY,QLD,4508,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+516,,DELANEYS CREEK,QLD,4514,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+517,,DONNYBROOK,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+518,,DOOLANDELLA,QLD,4077,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+519,,DRAPER,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+520,,DREWVALE,QLD,4116,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+521,,DUNWICH,QLD,4183,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+522,,DURACK,QLD,4077,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+523,,DUTTON PARK,QLD,4102,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+524,,EAGLE FARM,QLD,4009,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+525,,EAGLEBY,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+526,,EAST BRISBANE,QLD,4169,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+527,,EATONS HILL,QLD,4037,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+528,,EDENS LANDING,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+529,,EIGHT MILE PLAINS,QLD,4113,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+530,,ELIMBAH,QLD,4516,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+531,,ELLEN GROVE,QLD,4078,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+532,,ENOGGERA,QLD,4051,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+533,,ENOGGERA RESERVOIR,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+534,,EVERTON HILLS,QLD,4053,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+535,,EVERTON PARK,QLD,4053,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+536,,FAIRFIELD,QLD,4103,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+537,,FAIRFIELD GARDENS,QLD,4103,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+538,,FERNY GROVE,QLD,4055,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+539,,FERNY HILLS,QLD,4055,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+540,,FIG TREE POCKET,QLD,4069,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+541,,FITZGIBBON,QLD,4018,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+542,,FOREST LAKE,QLD,4078,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+543,,FORESTDALE,QLD,4118,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+544,,FORTITUDE VALLEY,QLD,4006,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+545,,GAYTHORNE,QLD,4051,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+546,,GEEBUNG,QLD,4034,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+547,,GEORGE STREET,QLD,4003,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+548,,GLASS HOUSE MOUNTAINS,QLD,4518,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+549,,GODWIN BEACH,QLD,4511,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+550,,GORDON PARK,QLD,4031,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+551,,GRACEVILLE,QLD,4075,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+552,,GRANGE,QLD,4051,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+553,,GREENBANK,QLD,4124,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+554,,GREENSLOPES,QLD,4120,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+555,,GRIFFIN,QLD,4503,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+556,,GUMDALE,QLD,4154,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+557,,HAMILTON,QLD,4007,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+558,,HAMILTON CENTRAL,QLD,4007,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+559,,HAWTHORNE,QLD,4171,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+560,,HAZELDEAN,QLD,4515,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+561,,HEATHWOOD,QLD,4110,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+562,,HEMMANT,QLD,4174,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+563,,HENDRA,QLD,4011,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+564,,HERITAGE PARK,QLD,4118,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+565,,HERSTON,QLD,4006,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+566,,HIGHGATE HILL,QLD,4101,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+567,,HIGHVALE,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+568,,HILLCREST,QLD,4118,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+569,,HOLLAND PARK,QLD,4121,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+570,,HOLLAND PARK EAST,QLD,4121,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+571,,HOLLAND PARK WEST,QLD,4121,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+572,,HOLMVIEW,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+573,,INALA,QLD,4077,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+574,,INALA HEIGHTS,QLD,4077,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+575,,INDOOROOPILLY,QLD,4068,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+576,,JAMBOREE HEIGHTS,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+577,,JINDALEE,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+578,,JOLLYS LOOKOUT,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+579,,KALLANGUR,QLD,4503,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+580,,KANGAROO POINT,QLD,4169,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+581,,KARAWATHA,QLD,4117,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+582,,KEDRON,QLD,4031,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+583,,KELVIN GROVE,QLD,4059,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+584,,KELVIN GROVE BC,QLD,4059,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+585,,KENMORE,QLD,4069,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+586,,KEPERRA,QLD,4054,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+587,,KILCOY,QLD,4515,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+588,,KINGSTON,QLD,4114,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+589,,KIPPA-RING,QLD,4021,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+590,,KOBBLE CREEK,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+591,,KOORINGAL,QLD,4025,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+592,,KURABY,QLD,4112,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+593,,KURWONGBAH,QLD,4503,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+594,,LAMB ISLAND,QLD,4184,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+595,,LARAPINTA,QLD,4110,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+596,,LAWNTON,QLD,4501,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+597,,LOGAN CENTRAL,QLD,4114,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+598,,LOGAN RESERVE,QLD,4133,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+599,,LOGAN VILLAGE,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+600,,LOGANHOLME,QLD,4129,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+601,,LOGANLEA,QLD,4131,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+602,,LOTA,QLD,4179,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+603,,LUSCOMBE,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+604,,LUTWYCHE,QLD,4030,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+605,,LYONS,QLD,4124,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+606,,LYTTON,QLD,4178,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+607,,MACGREGOR,QLD,4109,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+608,,MACKENZIE,QLD,4156,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+609,,MACLEAY ISLAND,QLD,4184,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+610,,MANGO HILL,QLD,4509,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+611,,MANLY,QLD,4179,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+612,,MANLY WEST,QLD,4179,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+613,,MANSFIELD,QLD,4122,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+614,,MANSFIELD BC,QLD,4122,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+615,,MARGATE,QLD,4019,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+616,,MARGATE BEACH,QLD,4019,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+617,,MARSDEN,QLD,4132,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+618,,MCDOWALL,QLD,4053,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+619,,MEADOWBROOK,QLD,4131,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+620,,MELDALE,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+621,,MIDDLE PARK,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+622,,MILTON,QLD,4064,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+623,,MITCHELTON,QLD,4053,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+624,,MOGGILL,QLD,4070,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+625,,MOORINA,QLD,4506,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+626,,MOOROOKA,QLD,4105,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+627,,MORAYFIELD,QLD,4506,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+628,,MORNINGSIDE,QLD,4170,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+629,,MOUNT ARCHER,QLD,4514,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+630,,MOUNT COOT-THA,QLD,4066,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+631,,MOUNT COTTON,QLD,4165,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+632,,MOUNT GRAVATT,QLD,4122,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+633,,MOUNT GRAVATT EAST,QLD,4122,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+634,,MOUNT MEE,QLD,4521,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+635,,MOUNT OMMANEY,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+636,,MOUNT PLEASANT,QLD,4521,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+637,,MOUNT WARREN PARK,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+638,,MT GRAVATT,QLD,4122,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+639,,MT MEE,QLD,4521,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+640,,MT OMMANEY,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+641,,MUNRUBEN,QLD,4125,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+642,,MURARRIE,QLD,4172,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+643,,MURRUMBA DOWNS,QLD,4503,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+644,,NARANGBA,QLD,4504,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+645,,NATHAN,QLD,4111,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+646,,NEW BEITH,QLD,4124,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+647,,NEW FARM,QLD,4005,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+648,,NEWMARKET,QLD,4051,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+649,,NEWSTEAD,QLD,4006,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+650,,NINGI,QLD,4511,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+651,,NORMAN PARK,QLD,4170,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+652,,NORTH LAKES,QLD,4509,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+653,,NORTH STRADBROKE ISLAND,QLD,4183,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+654,,NORTHGATE,QLD,4013,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+655,,NUDGEE,QLD,4014,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+656,,NUDGEE BEACH,QLD,4014,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+657,,NUNDAH,QLD,4012,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+658,,ORMISTON,QLD,4160,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+659,,OXLEY,QLD,4075,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+660,,PADDINGTON,QLD,4064,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+661,,PALLARA,QLD,4110,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+662,,PARK RIDGE,QLD,4125,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+663,,PARK RIDGE SOUTH,QLD,4125,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+664,,PARKINSON,QLD,4115,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+665,,PEACHESTER,QLD,4519,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+666,,PEEL ISLAND,QLD,4184,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+667,,PETRIE,QLD,4502,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+668,,PETRIE TERRACE,QLD,4000,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+669,,PINJARRA HILLS,QLD,4069,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+670,,PINKENBA,QLD,4008,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+671,,POINT LOOKOUT,QLD,4183,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+672,,PORT OF BRISBANE,QLD,4178,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+673,,PRIESTDALE,QLD,4127,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+674,,PULLENVALE,QLD,4069,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+675,,RANSOME,QLD,4154,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+676,,RED HILL,QLD,4059,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+677,,REDCLIFFE,QLD,4020,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+678,,REDCLIFFE NORTH,QLD,4020,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+679,,REDLAND BAY,QLD,4165,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+680,,REGENTS PARK,QLD,4118,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+681,,RICHLANDS,QLD,4077,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+682,,RIVERHILLS,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+683,,ROBERTSON,QLD,4109,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+684,,ROCHEDALE,QLD,4123,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+685,,ROCHEDALE SOUTH,QLD,4123,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+686,,ROCKLEA,QLD,4106,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+687,,ROCKLEA DC,QLD,4106,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+688,,ROCKSBERG,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+689,,ROTHWELL,QLD,4022,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+690,,ROYAL BRISBANE HOSPITAL,QLD,4029,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+691,,RUNCORN,QLD,4113,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+692,,RUSH CREEK,QLD,4521,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+693,,RUSSELL ISLAND,QLD,4184,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+694,,SALISBURY,QLD,4107,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+695,,SALISBURY EAST,QLD,4107,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+696,,SAMFORD,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+697,,SAMFORD VALLEY,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+698,,SAMFORD VILLAGE,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+699,,SAMSONVALE,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+700,,SANDGATE,QLD,4017,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+701,,SANDSTONE POINT,QLD,4511,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+702,,SCARBOROUGH,QLD,4020,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+703,,SEVEN HILLS,QLD,4170,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+704,,SEVENTEEN MILE ROCKS,QLD,4073,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+705,,SHAILER PARK,QLD,4128,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+706,,SHELDON,QLD,4157,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+707,,SHERWOOD,QLD,4075,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+708,,SHORNCLIFFE,QLD,4017,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+709,,SINNAMON PARK,QLD,4073,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+710,,SLACKS CREEK,QLD,4127,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+711,,SOUTH BRISBANE,QLD,4101,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+712,,SOUTH BRISBANE BC,QLD,4101,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+713,,SPRING HILL,QLD,4000,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+714,,SPRING HILL,QLD,4004,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+715,,SPRING MOUNTAIN,QLD,4124,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+716,,SPRINGWOOD,QLD,4127,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+717,,ST LUCIA,QLD,4067,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+718,,ST LUCIA SOUTH,QLD,4067,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+719,,STAFFORD,QLD,4053,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+720,,STAFFORD HEIGHTS,QLD,4053,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+721,,STANMORE,QLD,4514,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+722,,STAPYLTON,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+723,,STONES CORNER,QLD,4120,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+724,,STONY CREEK,QLD,4514,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+725,,STRATHPINE,QLD,4500,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+726,,STRETTON,QLD,4116,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+727,,SUMNER,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+728,,SUMNER PARK,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+729,,SUMNER PARK BC,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+730,,SUNNYBANK,QLD,4109,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+731,,SUNNYBANK HILLS,QLD,4109,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+732,,SUNNYBANK SOUTH,QLD,4109,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+733,,TAIGUM,QLD,4018,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+734,,TANAH MERAH,QLD,4128,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+735,,TANGALOOMA,QLD,4025,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+736,,TARINGA,QLD,4068,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+737,,TARRAGINDI,QLD,4121,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+738,,TENERIFFE,QLD,4005,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+739,,TENNYSON,QLD,4105,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+740,,THE GAP,QLD,4061,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+741,,THORNESIDE,QLD,4158,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+742,,THORNLANDS,QLD,4164,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+743,,TINGALPA,QLD,4173,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+744,,TINGALPA BC,QLD,4173,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+745,,TOOMBUL,QLD,4012,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+746,,TOORBUL,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+747,,TOOWONG,QLD,4066,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+748,,TOOWONG DC,QLD,4066,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+749,,UNDERWOOD,QLD,4119,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+750,,UNIVERSITY OF QUEENSLAND,QLD,4072,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+751,,UPPER BROOKFIELD,QLD,4069,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+752,,UPPER CABOOLTURE,QLD,4510,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+753,,UPPER KEDRON,QLD,4055,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+754,,UPPER MT GRAVATT,QLD,4122,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+755,,VICTORIA POINT,QLD,4165,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+756,,VICTORIA POINT WEST,QLD,4165,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+757,,VILLENEUVE,QLD,4514,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+758,,VIRGINIA,QLD,4014,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+759,,VIRGINIA BC,QLD,4014,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+760,,WACOL,QLD,4076,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+761,,WAKERLEY,QLD,4154,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+762,,WAMURAN,QLD,4512,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+763,,WARNER,QLD,4500,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+764,,WATERFORD,QLD,4133,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+765,,WATERFORD WEST,QLD,4133,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+766,,WAVELL HEIGHTS,QLD,4012,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+767,,WAVELL HEIGHTS NORTH,QLD,4012,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+768,,WELLERS HILL,QLD,4121,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+769,,WELLINGTON POINT,QLD,4160,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+770,,WEST END,QLD,4101,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+771,,WESTLAKE,QLD,4074,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+772,,WHITESIDE,QLD,4503,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+773,,WILLAWONG,QLD,4110,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+774,,WILSTON,QLD,4051,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+775,,WINDAROO,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+776,,WINDSOR,QLD,4030,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+777,,WISHART,QLD,4122,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+778,,WOODFORD,QLD,4514,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+779,,WOODRIDGE,QLD,4114,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+780,,WOODY POINT,QLD,4019,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+781,,WOOLLOONGABBA,QLD,4102,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+782,,WOOLMAR,QLD,4515,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+783,,WOOLOOWIN,QLD,4030,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+784,,WOONGOOLBA,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+785,,WOORIM,QLD,4507,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+786,,WYNNUM,QLD,4178,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+787,,WYNNUM NORTH,QLD,4178,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+788,,WYNNUM WEST,QLD,4178,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+789,,YARRABILBA,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+790,,YATALA,QLD,4207,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+791,,YEERONGPILLY,QLD,4105,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+792,,YERONGA,QLD,4104,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+793,,YUGAR,QLD,4520,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
+794,,ZILLMERE,QLD,4034,Australia,,Brisbane CBD,QLD,4000,Australia,transit,,,,2017,6,6,7,0,10,best_guess
